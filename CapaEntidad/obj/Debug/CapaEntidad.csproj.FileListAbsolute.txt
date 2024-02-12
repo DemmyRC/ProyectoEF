@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\SistemaNV\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\SistemaNV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\SistemaNV\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\source\repos\SistemaNV\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\source\repos\SistemaNV\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\source\repos\SistemaNV\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\ASUS\OneDrive\Documentos\SistemaNV\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\ASUS\OneDrive\Documentos\SistemaNV\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\ASUS\OneDrive\Documentos\SistemaNV\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documentos\SistemaNV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\SistemaNV\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\ASUS\OneDrive\Documentos\SistemaNV\CapaEntidad\obj\Debug\CapaEntidad.pdb
